@@ -1,1 +1,1 @@
-Scraping and parsing exos for THP
+Scrapping and parsing exos for THP
